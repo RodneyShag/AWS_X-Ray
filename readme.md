@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="images/x-ray_logo.png">
+    <img src="images/xray_logo.png">
 </p>
 
 ### Overview
