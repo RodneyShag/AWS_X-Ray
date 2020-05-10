@@ -7,7 +7,8 @@
 - lets you analyze & debug applications using distributed tracing
 - provides new ways to analyze performance
 - lets you see downstream service calls
-- works with EC2, Elastic Beanstalk, Elastic Container Service (ECS), AWS Lambda
+- works with EC2, Elastic Beanstalk, Elastic Container Service (ECS), Lambda, DynamoDB, etc.
+- setup requires X-Ray SDK and X-ray daemon.
 
 ![Xray](images/xray_sample.png)
 
